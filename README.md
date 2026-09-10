@@ -33,15 +33,6 @@ Currently focused on strengthening my ML foundations and building practical proj
 
 ---
 
-## 📊 GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=omshete12&show_icons=true&theme=transparent&hide_border=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omshete12&layout=compact&theme=transparent&hide_border=true" height="170"/>
-</p>
-
----
-
 ## 🚀 Projects
 
 ### 💳 Credit Card Fraud Detection
