@@ -65,7 +65,7 @@ Classification project focused on predicting student academic performance.
 ## 🎓 Currently
 
 **MSc Artificial Intelligence & Data Science**  
-MIT World Peace University, Pune · 2026–2028
+  Pune · 2026–2028
 
 ---
 
