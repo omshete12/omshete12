@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm Om Shete 👋
 
-<!--
-**omshete12/omshete12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### MSc AI & Data Science Student | Machine Learning | Data Science
 
-Here are some ideas to get you started:
+Interested in Machine Learning, Data Science, and building practical solutions with real-world data.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech
+
+`Python` `SQL` `Pandas` `NumPy` `Scikit-learn` `Matplotlib` `Git`
+
+### 🚀 Projects
+
+- [Credit Card Fraud Detection](https://github.com/omshete12/credit-card-fraud-detection-ml)
+- [Student Performance Prediction](https://github.com/omshete12/student-performance-prediction-ml)
+
+### 🔗
+
+[Portfolio](https://omshete12.github.io/) ·
+[LinkedIn](https://www.linkedin.com/in/omshete12) ·
+[Email](mailto:omshete930@gmail.com)
+
+---
+
+*Building my way into Machine Learning.*
